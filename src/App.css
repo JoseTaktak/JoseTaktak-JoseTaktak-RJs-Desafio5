@@ -1,0 +1,12 @@
+header {
+  text-align: left;
+  background-color: rgb(60, 144, 165);
+}
+
+.BtnCenter{
+  text-align: center;
+}
+
+.BtnRight{
+  text-align: end;
+}
